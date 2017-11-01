@@ -1,0 +1,9 @@
+c:\users\wwstudent\documents\visual studio 2017\Projects\MathGame\MathGame\obj\Debug\MathGame.csprojResolveAssemblyReference.cache
+c:\users\wwstudent\documents\visual studio 2017\Projects\MathGame\MathGame\obj\Debug\MathGame.Form1.resources
+c:\users\wwstudent\documents\visual studio 2017\Projects\MathGame\MathGame\obj\Debug\MathGame.Properties.Resources.resources
+c:\users\wwstudent\documents\visual studio 2017\Projects\MathGame\MathGame\obj\Debug\MathGame.csproj.GenerateResource.Cache
+c:\users\wwstudent\documents\visual studio 2017\Projects\MathGame\MathGame\bin\Debug\MathGame.exe.config
+c:\users\wwstudent\documents\visual studio 2017\Projects\MathGame\MathGame\bin\Debug\MathGame.exe
+c:\users\wwstudent\documents\visual studio 2017\Projects\MathGame\MathGame\bin\Debug\MathGame.pdb
+c:\users\wwstudent\documents\visual studio 2017\Projects\MathGame\MathGame\obj\Debug\MathGame.exe
+c:\users\wwstudent\documents\visual studio 2017\Projects\MathGame\MathGame\obj\Debug\MathGame.pdb
